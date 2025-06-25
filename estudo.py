@@ -1,0 +1,7 @@
+print('========= Programa para aprovação de empréstimos bancários ========')
+name = str('Olá, por favor informe o seu nome completo: ')
+money = float(input('Digite aqui o seu salário mensal: '))
+house = float(input('Diga o preço da casa na qual deseja comprar: '))
+years = int(input('Em quantos anos o senhor pretente pagar a casa? '))
+prestacao = float(money / 0.30)
+print(money)
