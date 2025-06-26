@@ -13,6 +13,8 @@ elif prestacao < condition:
 else:
     print("Algo ocorreu errado, rode o programa novamente!")
 
+## programa que calcula se o usuário pode financiar uma casa
+
 
 
 
